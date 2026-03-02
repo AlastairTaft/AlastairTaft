@@ -86,4 +86,4 @@ Are you looking for an experienced developer who can deliver high-quality code a
 Let's discuss how we can bring your vision to life!
 
 ---
-<p align="center"><i>"Quality is not an act, it is a habit."</i></p>
+<p align="center"><i>btoa('øx¾3/§jg¾ú+>jYr')</i></p>
