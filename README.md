@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alastair 👋🏼</h1>
-<h3 align="center">Freelance Software Developer with 20+ Years Experience | Turning Ideas into Robust Applications</h3>
+<h3 align="center">Freelance Software Developer with 14+ Years Experience | Turning Ideas into Robust Applications</h3>
 
 <p align="center">
   <a href="mailto:alastair@lunait.solutions">
